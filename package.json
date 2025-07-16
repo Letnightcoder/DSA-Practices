@@ -1,0 +1,23 @@
+{
+  "name": "dsa",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Letnightcoder/DSA-Practices#readme",
+  "bugs": {
+    "url": "https://github.com/Letnightcoder/DSA-Practices/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Letnightcoder/DSA-Practices.git"
+  },
+  "license": "ISC",
+  "author": "Kallol",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
