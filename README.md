@@ -17,3 +17,17 @@
 - Peek: Returns the top element without removing it
 - isEmpty: Checks if the stack is empty
 - Size: Returns the number of elements in the stack 
+
+---
+
+## What is a Queue
+- Queue in general is a waiting line
+- Queue data structure can store many elements
+- Queue follows First in First out principle (FIFO)
+
+### Queue key operations
+- Enqueue: Add an element to the end of the queue.
+- Dequeue: Remove an element from the front of the queue.
+- Peek: Get the element at the front of the queue without removing it.
+- isEmpty: Checks if the queue is empty.
+- Size: Returns the number of elements in the queue.
