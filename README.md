@@ -31,3 +31,18 @@
 - Peek: Get the element at the front of the queue without removing it.
 - isEmpty: Checks if the queue is empty.
 - Size: Returns the number of elements in the queue.
+
+---
+
+### Link List key operations
+- Insertion
+ - At the beginning
+ - At the end
+ - At the specific position
+- Deletion
+ - By value
+ - By position
+- Traversal: visiting all nodes sequentially, one by one from start to end.
+- Search: Find if a node with a specific value.
+- Length: Number of nodes in a Linked List.
+
