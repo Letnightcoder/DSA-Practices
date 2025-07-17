@@ -46,3 +46,26 @@
 - Search: Find if a node with a specific value.
 - Length: Number of nodes in a Linked List.
 
+---
+
+## Hash Function
+- A hash function is a special type of function
+- It takes some value (key) as input
+- It converts Key into a fixed-size numerical value called a hash code
+
+### Hash Function Attributes
+- Deterministic: The same input always produces the same output.
+- Fast: It should compute the hash value quickly.
+- Uniform Distribution: It aims to distribute inputs evenly across possible outputs to minimize collisions.
+- Collisions: As less collision as possible.
+
+## What is Hash Table
+- A Hash Table is a data structure that stores key-value pairs in an efficient manner.
+- It uses a hashing function to compute an index into an array, where the desired value can be found
+
+### Hash Table Implementation
+- We will create our implementation
+- Array size of 50
+- We will support following operations
+ - Set: Adds a new key-value pair to the hash table
+ - Get: Retrieves the value associated with a given key
