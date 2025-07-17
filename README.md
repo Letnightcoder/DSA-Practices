@@ -69,3 +69,34 @@
 - We will support following operations
  - Set: Adds a new key-value pair to the hash table
  - Get: Retrieves the value associated with a given key
+
+---
+
+## What is a Set
+- Data Structure that stores a collection of Unique Elements
+- Sets do not allow duplicate values
+- Set data structure has in build support in JS
+- Sets come from Mathamatics
+ - A = {1,2,3,3,4} => {1,2,3,4}
+
+### Set Characteristics
+
+- Unique Elements: A set automatically removes duplicate values.
+ - Unlike arrays, Sets automatically eliminate duplicate values
+- Unordered: The elements in a set are not stored in a specific sequence.
+- Fast Lookups (Search): Sets are optimized for checking the presence of an element.
+
+### Set Operations
+- Initialization
+- Add
+- Has
+- Delete
+- Iterating over all elements
+- Clearing a set
+
+### Use cases of Set
+- Removing Duplicates from an Array
+- Fast Membership Testing: has function
+- Joining Two Sets (Union): Using spread operator
+- Finding Intersection: Finding common items
+- Difference between 2 Sets
